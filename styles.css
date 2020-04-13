@@ -1,0 +1,23 @@
+.contactme : {
+  display : block;
+  color = #123456;
+}
+
+body : {
+  display : flex;
+  flex-direction: column;
+}¨
+
+meimg : {
+  float : left;
+}
+
+h1 {
+  font-family: 'Francois One', sans-serif;
+  font-size: 2em;
+}
+
+
+.description : {
+ float : right;
+}
